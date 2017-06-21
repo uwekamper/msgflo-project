@@ -1,5 +1,5 @@
 {
-  "name": "msgflo-project",
+  "name": "ukflo",
   "version": "1.0.0",
   "description": "Project template for MsgFlo",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/msgflo/msgflo-project.git"
+    "url": "git://github.com/uwekamper/ukflo.git"
   },
-  "author": "Henri Bergius <henri.bergius@iki.fi>",
+  "author": "Uwe Kamper <me@uwekamper.de>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/msgflo/msgflo-project/issues"
+    "url": "https://github.com/uwekamper/ukflo/issues"
   },
-  "homepage": "https://github.com/msgflo/msgflo-project#readme",
+  "homepage": "https://github.com/uwekamper/ukflo#readme",
   "dependencies": {
     "mqtt": "^2.9.0",
     "msgflo": "^0.10.25",

@@ -1,11 +1,11 @@
 name: 'Inverting a boolean'
-topic: msgflo-project/InvertBoolean
+topic: ukflo/InvertBoolean
 fixture:
   type: 'fbp'
   data: |
     INPORT=invert.IN:IN
     OUTPORT=invert.OUT:OUT
-    invert(msgflo-project/InvertBoolean)
+    invert(ukflo/InvertBoolean)
 cases:
 -
   name: 'receiving a true'
