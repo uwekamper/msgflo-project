@@ -1,12 +1,25 @@
 {
-  "properties": {
-    "name": "main",
-    "environment": {
-      "type": "msgflo"
-    }
-  },
-  "processes": {},
-  "connections": [],
-  "inports": [],
-  "outports": []
+    "caseSensitive": false,
+    "properties": {
+        "name": "main",
+        "environment": {
+            "type": "msgflo"
+        }
+    },
+    "inports": {},
+    "outports": {},
+    "groups": [],
+    "processes": {
+        "ukflo/InvertBoolean_by6l7": {
+            "component": "ukflo/InvertBoolean",
+            "metadata": {
+                "label": "InvertBoolean",
+                "x": 792,
+                "y": 468,
+                "width": 72,
+                "height": 72
+            }
+        }
+    },
+    "connections": []
 }
