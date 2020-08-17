@@ -4,7 +4,8 @@
         "name": "main",
         "environment": {
             "type": "msgflo"
-        }
+        },
+        "icon": "cog"
     },
     "inports": {},
     "outports": {},
@@ -14,8 +15,8 @@
             "component": "ukflo/InvertBoolean",
             "metadata": {
                 "label": "InvertBoolean",
-                "x": 792,
-                "y": 468,
+                "x": 756,
+                "y": 396,
                 "width": 72,
                 "height": 72
             }
